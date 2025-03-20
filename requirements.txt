@@ -4,4 +4,3 @@ numpy
 networkx
 matplotlib
 plotly
-pygraphviz
